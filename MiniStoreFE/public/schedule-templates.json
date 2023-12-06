@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "scheduleTemplateId": 1,
+      "name": "Template 1",
+      "description": "lorem",
+      "numOfShifts": 5,
+      "createdAt": "2021-09-01T00:00:00.000Z",
+      "updatedAt": "2021-09-01T00:00:00.000Z"
+    },
+    {
+      "scheduleTemplateId": 2,
+      "name": "Template 2",
+      "description": "lorem",
+      "numOfShifts": 2,
+      "createdAt": "2021-09-01T00:00:00.000Z",
+      "updatedAt": "2021-09-01T00:00:00.000Z"
+    }
+  ],
+  "error": "",
+  "status": 300,
+  "timestamp": "2019-01-01T00:00:00Z"
+}

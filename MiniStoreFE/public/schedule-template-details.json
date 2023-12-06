@@ -1,0 +1,70 @@
+{
+  "content": {
+    "scheduleTemplateId": 1,
+    "name": "Template 1",
+    "description": "lorem",
+    "numOfShifts": 5,
+    "shiftInfos": [
+      {
+        "shiftTemplateId": 1,
+        "name": "Ca Sáng",
+        "startTime": "08:00:00",
+        "endTime": "16:00:00",
+        "salaryCoefficient": 1.0,
+        "role": "CASHIER",
+        "date": "2023-06-15",
+        "staffName": "hieu vo",
+        "scheduleTemplateId": 1
+      },
+      {
+        "shiftTemplateId": 2,
+        "name": "Ca Chiều",
+        "startTime": "16:00:00",
+        "endTime": "24:00:00",
+        "salaryCoefficient": 1.0,
+        "role": "MANAGER",
+        "staffName": "Khoa Do",
+        "date": "2023-06-17",
+        "scheduleTemplateId": 1
+      },
+      {
+        "shiftTemplateId": 3,
+        "name": "Ca Khuya",
+        "startTime": "24:00:00",
+        "endTime": "08:00:00",
+        "salaryCoefficient": 1.0,
+        "role": "ALL_ROLES",
+        "staffName": "Khoa Do",
+        "date": "2023-06-14",
+        "scheduleTemplateId": 1
+      },
+      {
+        "shiftTemplateId": 4,
+        "name": "Afternoon Shift",
+        "startTime": "12:00:00",
+        "endTime": "16:00:00",
+        "salaryCoefficient": 0.8,
+        "role": "GUARD",
+        "staffName": "John Smith",
+        "date": "2023-06-18",
+        "scheduleTemplateId": 1
+      },
+      {
+        "shiftTemplateId": 4,
+        "name": "Afternoon Shift",
+        "startTime": "12:00:00",
+        "endTime": "16:00:00",
+        "salaryCoefficient": 0.8,
+        "role": "ADMIN",
+        "date": "2023-06-12",
+        "staffName": "John Smith",
+        "scheduleTemplateId": 1
+      }
+    ],
+    "createdAt": "2021-09-01T00:00:00.000Z",
+    "updatedAt": "2021-09-01T00:00:00.000Z"
+  },
+  "error": "",
+  "status": 300,
+  "timestamp": "2019-01-01T00:00:00Z"
+}

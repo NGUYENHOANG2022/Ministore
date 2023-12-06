@@ -1,0 +1,28 @@
+{
+  "content": [
+    {
+      "categoryId": 1,
+      "name": "test",
+      "description": "test",
+      "sales": 12,
+      "stock": 1212
+    },
+    {
+      "categoryId": 2,
+      "name": "test2",
+      "description": "test",
+      "sales": 12,
+      "stock": 1212
+    },
+    {
+      "categoryId": 3,
+      "name": "test3",
+      "description": "test",
+      "sales": 12,
+      "stock": 1212
+    }
+  ],
+  "error": "",
+  "status": 300,
+  "timestamp": "2019-01-01T00:00:00Z"
+}

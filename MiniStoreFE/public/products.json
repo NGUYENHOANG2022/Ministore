@@ -1,0 +1,46 @@
+{
+  "content": [
+    {
+      "productId": 1,
+      "barcode": "TE2394235",
+      "name": "test1",
+      "description": "test",
+      "price": 10000,
+      "quantity": 100,
+      "category": {
+        "categoryId": 1,
+        "name": "test",
+        "description": "test"
+      }
+    },
+    {
+      "productId": 2,
+      "barcode": "",
+      "name": "test2",
+      "description": "test",
+      "price": 10000,
+      "quantity": 100,
+      "category": {
+        "categoryId": 1,
+        "name": "test",
+        "description": "test"
+      }
+    },
+    {
+      "productId": 3,
+      "barcode": "234TE2394235",
+      "name": "test3",
+      "description": "test",
+      "price": 10000,
+      "quantity": 100,
+      "category": {
+        "categoryId": 1,
+        "name": "test",
+        "description": "test"
+      }
+    }
+  ],
+  "error": "",
+  "status": 300,
+  "timestamp": "2019-01-01T00:00:00Z"
+}
